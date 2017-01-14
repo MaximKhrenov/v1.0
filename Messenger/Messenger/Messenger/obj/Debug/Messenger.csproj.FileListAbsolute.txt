@@ -1,0 +1,60 @@
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\Debug\Messenger.dll
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\Debug\Messenger.pdb
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\Debug\Messenger.App.xaml.g.cs
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\Debug\Messenger.Views.LoginPage.xaml.g.cs
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\Debug\Messenger.Views.RegisterPage.xaml.g.cs
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\Debug\Messenger.Views.ContactsPage.xaml.g.cs
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\Debug\Messenger.Views.ProfilePage.xaml.g.cs
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\Debug\Messenger.Views.ChatPage.xaml.g.cs
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\Debug\Messenger.dll
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\Debug\Messenger.pdb
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\Debug\Messenger.csprojResolveAssemblyReference.cache
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\obj\Debug\Messenger.dll.mdb
+C:\Users\max\Documents\Visual Studio 2015\Projects\Messenger\Messenger\Messenger\bin\Debug\Messenger.dll.mdb
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Messenger.dll
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Messenger.pdb
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Core.dll
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Platform.dll
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Core.pdb
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Core.xml
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.csprojResolveAssemblyReference.cache
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.App.xaml.g.cs
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.Views.LoginPage.xaml.g.cs
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.Views.RegisterPage.xaml.g.cs
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.Views.ContactsPage.xaml.g.cs
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.Views.ProfilePage.xaml.g.cs
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.Views.ChatPage.xaml.g.cs
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.dll
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.pdb
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.csproj.App.config
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Messenger.dll.config
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Newtonsoft.Json.dll
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\System.Net.Http.dll
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\System.Net.Http.Extensions.dll
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\System.Net.Http.Primitives.dll
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Newtonsoft.Json.xml
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\System.Net.Http.xml
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\System.Net.Http.Extensions.xml
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\System.Net.Http.Primitives.xml
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.dll.mdb
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Messenger.dll.mdb
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.dll.mdb
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Messenger.dll.mdb
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.dll.mdb
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Messenger.dll.mdb
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.dll.mdb
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Messenger.dll.mdb
+D:\max1-master\Messenger\Messenger\Messenger\obj\Debug\Messenger.dll.mdb
+D:\max1-master\Messenger\Messenger\Messenger\bin\Debug\Messenger.dll.mdb
